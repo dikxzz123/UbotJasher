@@ -17,6 +17,6 @@ module.exports = {
   gclog : -1002959113773, // group buat share all log bot/ history
   MAX_LIMIT: 100,
   TokenVercel : "P6JQ6CrS37J1ONjxlqN9Esf8",
-  MENU_IMAGE_URL: 'https://ar-hosting.pages.dev/1758181333367.jpg', // link foto menu
+  MENU_IMAGE_URL: 'https://ar-hosting.pages.dev/1758205333474.jpg', // link foto menu
 };
 
